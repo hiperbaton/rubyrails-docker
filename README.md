@@ -1,24 +1,12 @@
-# README
+# RoR Docker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ambiente de desarrollo de Ruby on Rails utilizando Docker.
+Contiene la primera parte del tutorial de la pagina de Ruby on Rails.
 
-Things you may want to cover:
+---
 
-* Ruby version
+Para levantar usar:
+* docker-compose build
+* docker-compose up
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Y el servidor se encontrará corriendo en http://localhost:3000/
